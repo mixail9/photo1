@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">photo</string>
+    <string name="make_photo_btn">make a photo</string>
+    <string name="empty_name">name can\'t be empty</string>
+
+</resources>
